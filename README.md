@@ -52,7 +52,7 @@ npx ts-node src/index.ts path_to_your_spreadsheet_file/file_name save path_to_st
 3. Request access to grant required permissions can be made via the CLI to inform the user that the directory is currently not accessible.
 4. Validations such as for the file types, for the number of rows it can handle currently can be implemented.
 
-### Changes that can considered for making it highly efficient
+### Changes that can be considered for making it highly efficient
 1. For scalability we can use different useful services like AWS lambda by deploying it as an api.
 2. For batch processing we can split the data into batches and store in databases for crud and other processes
 
