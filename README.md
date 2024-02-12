@@ -38,6 +38,8 @@ npx ts-node src/index.ts path_to_your_spreadsheet_file/file_name save path_to_st
 ### Dependencies:
 1. xlsx ```^0.18.5```
 
+# Answers for the questions as per the email: 
+
 ### Limitations:
 1. Automation required so that the process can convert any spreadsheet files to json
 2. Need a proper interface to input the file for breaking down into json.
