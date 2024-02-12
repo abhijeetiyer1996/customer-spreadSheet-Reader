@@ -15,11 +15,11 @@ git clone https://github.com/abhijeetiyer1996/customer-spreadSheet-Reader.git
 3. Install all the dependencies of the project using the following command
 
 ```bash
-# ensure that you are in the project's root directory
+# Ensure that you are in the project's root directory
 npm install
 ```
 
-4. use the following CLI commands to convert the spreadsheet to JSON
+4. Use the following CLI commands to convert the spreadsheet to JSON
 
 ``` bash
 # To convert the spreadSheet to json and view it in the console
